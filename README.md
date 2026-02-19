@@ -166,6 +166,4 @@ The model returns structured JSON containing:
 
 ---
 
-## 📄 License
-
-MIT License
+## The Drive link for Video showcasig the project: https://drive.google.com/drive/folders/1Ix24dxDIeRBJCB6-PfDMwPmgNwxjjD5E?usp=sharing
