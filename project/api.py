@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from llm_engine import generate_interview_questions
+from project.llm_engine import generate_interview_questions
 
 app = FastAPI()
 
