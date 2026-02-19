@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+requests
+groq
+python-dotenv
+reportlab
